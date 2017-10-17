@@ -1,0 +1,39 @@
+.animal-avatar 
+{
+	border-radius: 25px;
+	height: 240px;
+	padding: 10px 30px 10px 30px;
+	width: 240px;
+}
+
+.animal-row
+{
+	border: 2px solid #000000;
+	text-align: center;
+	width: 50%;
+}
+
+.pyramid-level-1
+{
+	background-color: blue;
+}
+
+.pyramid-level-2
+{
+	background-color: red;
+}
+
+.pyramid-level-3
+{
+	background-color: green;
+}
+
+.pyramid-level-4
+{
+	background-color: yellow;
+}
+
+.pyramid-level-5
+{
+	background-color: orange;
+}
